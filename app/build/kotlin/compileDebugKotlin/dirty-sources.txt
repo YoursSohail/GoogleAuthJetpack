@@ -1,0 +1,5 @@
+D:\Projects\GoogleAuth\app\src\main\java\com\sohail\googleauth\ui\theme\Shape.kt
+D:\Projects\GoogleAuth\app\src\main\java\com\sohail\googleauth\ui\theme\Type.kt
+D:\Projects\GoogleAuth\app\src\main\java\com\sohail\googleauth\MainActivity.kt
+D:\Projects\GoogleAuth\app\src\main\java\com\sohail\googleauth\ui\theme\Color.kt
+D:\Projects\GoogleAuth\app\src\main\java\com\sohail\googleauth\ui\theme\Theme.kt

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-fido:19.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d28e58069c7be49c4781b1f38cff97c2/transformed/play-services-fido-19.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4dc4338732a34699d2e99779813552d9/transformed/play-services-fido-19.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/35c43257b155a4aa635fff4457ae98cb/transformed/play-services-fido-19.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2111848f2c944c676df128f37c6a5c6/transformed/play-services-fido-19.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f2111848f2c944c676df128f37c6a5c6/transformed/play-services-fido-19.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2111848f2c944c676df128f37c6a5c6/transformed/play-services-fido-19.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-fido/19.0.0/45dbe3999e4633b89db1a3df791c98bbb1e48c04/play-services-fido-19.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
